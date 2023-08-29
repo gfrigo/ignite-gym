@@ -10,7 +10,9 @@
   <br /> 
   ◽ Baixe o Visual Code Studio, Node e Android Studio (Emulador Android);<br /> 
   ◽ Após configuração do emulador, baixe o repertório;<br /> 
+   ◽ Não esqueceça de baixar o outro repositório "Ignite Gym API"<br /> 
   ◽ Com o terminal aberto na pasta do repertório digite "npm run android" com o emulador aberto.<br /> 
+  ◽ Com o terminal aberto na pasta do repertório API digite "npm run start".<br />
   <br /> 
   ▶️Parte 1: Criação de interfaces:<br /> 
   Sinta-se a vontade e promova melhorias no app.<br /> 
@@ -27,8 +29,12 @@
   ◽ Utilização do Axios, cliente HTTP para requisições e obtenção de respostas com o back-end;<br /> 
   ◽ Criação e centralização de um Contexto para compartilhar informações de maneira otimizada;<br /> 
   ◽ Autenticação com padrão JWT e refresh-token para prolongar a duração de login do usuário;<br /> 
+
+  <img>src="https://drive.google.com/file/d/1tDijVTBVTqRizupjfXUWJLR20au2gIHv/view?usp=sharing"</img>
  </body>
 </html>
+
+
 
 
 
