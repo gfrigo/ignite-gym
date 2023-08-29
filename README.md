@@ -1,5 +1,6 @@
 Desta vez, o app criado se chama Ignite Gym, perfeito para organizar o seu treinamento de musculação. Neste projeto, você pode marcar como realizado por datas, os exercícios separados por agrupamentos musculares. Sinta-se a vontade para trocar de foto, nome, e-mail e senha e torne o seu ambiente Fit totalmente personalizado!
 
+Veja o projeto em um vídeo no meu linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7097597972611293184/
 
 Como usar?
 ◽ Baixe o Visual Code Studio, Node e Android Studio (Emulador Android);
