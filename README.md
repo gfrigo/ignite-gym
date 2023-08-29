@@ -29,8 +29,6 @@
   ◽ Utilização do Axios, cliente HTTP para requisições e obtenção de respostas com o back-end;<br /> 
   ◽ Criação e centralização de um Contexto para compartilhar informações de maneira otimizada;<br /> 
   ◽ Autenticação com padrão JWT e refresh-token para prolongar a duração de login do usuário;<br /> 
-
-  <img>src="https://drive.google.com/file/d/1tDijVTBVTqRizupjfXUWJLR20au2gIHv/view?usp=sharing"</img>
  </body>
 </html>
 
