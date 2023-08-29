@@ -2,9 +2,9 @@ Desta vez, o app criado se chama Ignite Gym, perfeito para organizar o seu trein
 
 
 Como usar?
--Baixe o Visual Code Studio, Node e Android Studio (Emulador Android);
--Após configuração do emulador, baixe o repertório;
--Com o terminal aberto na pasta do repertório digite npm run android com o emulador aberto.
+◽ Baixe o Visual Code Studio, Node e Android Studio (Emulador Android);
+◽ Após configuração do emulador, baixe o repertório;
+◽ Com o terminal aberto na pasta do repertório digite "npm run android" com o emulador aberto.
 
 ▶️Parte 1: Criação de interfaces:
 Sinta-se a vontade e promova melhorias no app.
